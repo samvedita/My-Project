@@ -1,1 +1,1 @@
-# NLP Project
+# NLPP-based Text summarizer
